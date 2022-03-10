@@ -1,0 +1,11 @@
+{
+    "params" : {
+        "con_url_Str" : "mongodb+srv://hrisikesh:hrisi2000kesh@cluster0.j0kza.mongodb.net/chatbot?retryWrites=true&w=majority",
+        "db" : "chatbot"
+
+
+    }
+
+
+
+}
